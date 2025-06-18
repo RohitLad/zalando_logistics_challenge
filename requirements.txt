@@ -3,3 +3,4 @@ ipykernel
 notebook
 pandas
 scikit-learn
+scipy

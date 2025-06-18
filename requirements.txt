@@ -1,0 +1,5 @@
+numpy
+ipykernel
+notebook
+pandas
+scikit-learn
